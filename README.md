@@ -18,14 +18,6 @@ A powerful web application for extracting and analyzing metadata from images and
 - 💾 Download metadata as JSON or text files
 - 🛡️ Secure processing - files are never stored on the server
 
-## 🖼️ Screenshots
-
-*(You can add screenshots of your application here)*
-
-## 🚀 Live Demo
-
-Try MetaScan now at [metascan.replit.app](https://metascan.replit.app)
-
 ## 🔧 Installation
 
 ### Prerequisites
